@@ -19,9 +19,9 @@ The goal was to develop a React frontend using TypeScript, and use the api from 
 
 - Import page, where it is possible to place a csv file and save it on the back-end, being redirected to the 'Listing' page that shows the new transactions.
 
-![](https://github.com/jenifferazevedo/gostack-challenge07/blob/master/src/assets/reactapp.JPG)
+![](https://github.com/jenifferazevedo/gostack-challenge07/blob/master/src/assets/reactapp.jpg)
 
-![](https://github.com/jenifferazevedo/gostack-challenge07/blob/master/src/assets/reactapp2.JPG)
+![](https://github.com/jenifferazevedo/gostack-challenge07/blob/master/src/assets/reactapp2.jpg)
 
 ### Tests
 
